@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+	<message key="timeBonus" comment="">Zusatz Punkte</message>
+	<message key="pairBonus" comment="">Paar(e) bis Bonus</message>
+	<message key="congratulations" comment="">Herzlichen Glückwunsch</message>
+	<message key="points_Header" comment="">Punkte</message>
+	<message key="clearedTilesInfo" comment="">1 Paar: + Wert des Steins</message>
+	<message key="MahjongSolvedInfo" comment="">7 Paare: + Zeit-Bonus</message>
+	<message key="TipPointsInfo" comment="">Tipp: -100</message>
+	<message key="tip" comment="">Tipp</message>
+	<message key="points" comment="">Punkte</message>
+	<message key="end" comment="">Fertig</message>
+	<message key="noStonesLeft" comment="">Andordnung der Steinpaare nicht lösbar.</message>
+	<message key="noPairsLeft" comment="">Keine Steinpaare mehr übrig.</message>
+	<message key="allReshuflesUsed" comment="">Leider sind keine weiteren Steinpaare lösbar.</message>
+	<message key="notPossibleToReshufle" comment="">Dieses Puzzel ist nicht weiter lösbar.</message>
+	<message key="clickForReshufle" comment="">Klicke zum Mischen.</message>
+	<message key="youHave" comment="">Punkte</message>
+	<message key="mix_1" comment="">Neu mischen</message>
+	<message key="mix_2" comment="">Neu mischen</message>
+	<message key="goOn" comment="">Weiter</message>
+	<message key="hintTime" comment="">Du hast 300 Sekunden um so viele Paare wie möglich zu finden.</message>
+	<message key="hintTimeBonus" comment="">Für alle 7 Steinpaare gibt es einen Bonus.</message>
+	<message key="hintTip" comment="">Tipps helfen dir, kosten aber Punkte.</message>
+	<message key="startGame" comment="">Start Mahjong</message>
+</messages>
+

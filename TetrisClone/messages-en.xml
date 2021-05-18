@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+	<message key="myLevel" comment="Caption">Level</message>
+	<message key="scoreText" comment="scoreText">Punkte</message>
+	<message key="linesText" comment="linesText">Reihen</message>
+	<message key="previewText" comment="linesText">Vorschau</message>
+	<message key="nextText" comment="Split">Weiter</message>
+	<message key="hintTime" comment="">Die Tastenkürzel für die Navigation</message>
+	<message key="hintTimeBonus" comment="">Alle 10 gelösten Reihen steigen das Level und die Geschwindigkeit.</message>
+	<message key="hintTip" comment="">Nur 40 Reihen bis zum Ziel :-)</message>
+	<message key="startGame" comment="">Los geht's</message>
+	<message key="congratulationText" comment="">Herzlichen Glückwunsch!</message>
+	<message key="lostText" comment="">Leider nicht ganz - gleich nochmal probieren ;-)</message>
+	<message key="pointsText" comment="">Punkte</message>
+	<message key="breakText" comment="">Pause</message>
+	<message key="pauseText" comment="">Pause</message>
+	<message key="rotateLeftText" comment="">Linksrotation</message>
+	<message key="rotateRightText" comment="">Rechtsrotation</message>
+	<message key="moveLeftText" comment="">Links bewegen</message>
+	<message key="moveRightText" comment="">Rechts bewegen</message>
+	<message key="softDropText" comment="">Beschleunigen</message>
+	<message key="hardDropText" comment="">Fallen lassen</message>
+	<message key="spaceText" comment="">Leertaste</message>
+	<message key="XText" comment="">X</message>
+	<message key="YText" comment="">Y</message>
+	<message key="EscText" comment="">Esc</message>
+</messages>
